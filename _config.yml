@@ -3,7 +3,7 @@ description:      牵手生命线就交错
 disqus_shortname: minerzhs
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 # Owner/author information
-url:               
+url:               zuohaisu.cn
 
 owner:  
   name:           Haisu Zuo
@@ -13,7 +13,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        zuohaisu
   facebook:       
-  github:         minerzhs
+  github:         zuohaisu
   stackexchange:  
   linkedin:       zuohaisu
   instagram:      
