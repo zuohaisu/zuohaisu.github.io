@@ -12,6 +12,7 @@ share: false
 
 ###时间线
 
++ 2014年10月，利用周末时间参与设计的小产品[Remember](https://itunes.apple.com/hk/app/remember./id926026469?mt=8)在苹果商店上线。
 + 2014年7月加盟某上市公司协助该公司进行大数据云服务的搭建，主攻BaaS和数据挖掘方向。
 + 2014年5月至今，从产品经理转型做程序开发，立志通过自己亲手打造的产品改变人民的生活，传播爱与希望。项目之一[“信+”](http://xin.io/)被[36kr报道](http://www.36kr.com/p/203549.html)。目前专注于基于[BLE](http://en.wikipedia.org/wiki/Bluetooth_low_energy)技术的智能硬件与智能家具方向做产品设计与开发。 
 + 2011年7月 - 2014年5月，在某视频技术公司任产品经理，所属团队以[Scrum](http://zh.wikipedia.org/wiki/Scrum)开发风格打造了多款基于Web技术的功能性产品，对于社区型产品有独到的理解，可参考[《社区型产品五要素分析工具》](http://zuohaisu.cn/post/2014/03/29/community-framework/)。期间完成6项专利申报，4个为第一作者，2个为第二作者。
